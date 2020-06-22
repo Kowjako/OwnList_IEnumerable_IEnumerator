@@ -1,0 +1,6 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\bin\Debug\MyList.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\bin\Debug\MyList.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\bin\Debug\MyList.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\obj\Debug\MyList.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\MyList\MyList\obj\Debug\MyList.pdb
